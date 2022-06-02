@@ -1,7 +1,4 @@
 - 👋 Hi, I’m @garthbb
-- 👀 I’m interested in pizza
-- 🌱 I’m currently learning RXJS
-- 💞️ I’m looking to collaborate on living forever
 - 📫 How to reach me: Slack
 
 <!---
